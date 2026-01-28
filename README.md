@@ -162,7 +162,7 @@ This application is configured as a Progressive Web App, which means:
 
 ## 📝 Version Information
 
-- **Version**: 1.0.0
+- **Version**: 1.0.1
 - **Build Number**: 1
 - **Package Name**: asa_gyms
 
